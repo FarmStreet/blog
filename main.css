@@ -1,0 +1,43 @@
+footer {
+	text-align: center;
+}
+
+.article {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.admin-table {
+	width: 100%;
+}
+
+header {
+	text-align: right;
+}
+
+@font-face{
+font-family: Comfortaa-Regular ;
+src: url('../fonts/Comfortaa-Regular.ttf');
+}
+@font-face {
+font-family: Comfortaa-Bold ;
+src: url('../fonts/Comfortaa-Bold.ttf');
+}
+@font-face{
+font-family: Comfortaa-Light ;
+src: url('../fonts/Comfortaa-Light.ttf');
+} 
+body {
+background: url('../img/bbg.jpg') no-repeat ;
+background-size: cover ;
+font-family: Comfortaa-Regular;
+}
+h5 {
+text-align: center ;
+font-size: 40px ;
+font-family: Comfortaa-Light ;
+}
+form {
+font-size: 24px ;
+font-family: Comfortaa-Regular ;
+}
